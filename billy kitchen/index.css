@@ -465,7 +465,7 @@ li:hover{
  .food{
     background-color: white;
     height: 250px;
-    width: 140px;
+    width: 176px;
     border-radius: 10px;
     overflow: hidden;
     text-align: center;
@@ -510,7 +510,7 @@ li:hover{
 .other{
     background-color: white;
     height: 300px;
-    width: 130px;
+    width: 162px;
     border-radius: 10px;
     overflow: hidden;
     text-align: center;
@@ -621,8 +621,8 @@ li:hover{
     gap: 10px;
  }
  #good img{
-    height: 90px;
-    width: 70px;
+    height: 150px;
+    width: 100px;
     border-radius: 5px;
  }
  #good h1{
@@ -643,7 +643,7 @@ li:hover{
  .food{
     background-color: white;
     height: 250px;
-    width: 140px;
+    width: 160px;
     border-radius: 10px;
     overflow: hidden;
     text-align: center;
@@ -688,7 +688,7 @@ li:hover{
 .other{
     background-color: white;
     height: 300px;
-    width: 130px;
+    width: 180px;
     border-radius: 10px;
     overflow: hidden;
     text-align: center;
@@ -730,14 +730,14 @@ li:hover{
     width: 100PX;
 }
 #Ab h3{
-    font-size: 10px;
+    font-size: 20px;
 }
 #Ab p{
-    font-size: 10px;
-    width: 150px;
+    font-size: 15px;
+    width: 200px;
 }
 #Ab-cont img{
-    height: 100px;
+    height: 180px;
     border-radius: 5px;   
 }
 #footer{
@@ -749,7 +749,7 @@ li:hover{
 #footer li{
     color: red;
     list-style: none;
-    font-size: 10px;
+    font-size: 12px;
 }
 .p{
     text-align: center;
