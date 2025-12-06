@@ -465,7 +465,7 @@ li:hover{
  .food{
     background-color: white;
     height: 250px;
-    width: 176px;
+    width: 170px;
     border-radius: 10px;
     overflow: hidden;
     text-align: center;
@@ -510,7 +510,7 @@ li:hover{
 .other{
     background-color: white;
     height: 300px;
-    width: 162px;
+    width: 160px;
     border-radius: 10px;
     overflow: hidden;
     text-align: center;
